@@ -1,5 +1,5 @@
 
-# Classification of Tumours 
+# Classification of Tumours (PySpark, Sklearn)
 
 ### Dataset: Breast Cancer Diagnostic Wisconsin
 
@@ -7,22 +7,24 @@ Training and Testing were done on Breast Cancer Diagnostic Wisconsin dataset to 
 -Hyperparamaters tuning, Normalization of features and Cross Validation were implemented for the 5 ML models created.
 -The following Test,Train accuracies for each of the models were obtained.
 
-
+# PySpark
+1. Decision Trees
+ ROC-AUC score = 0.9136
 
 # SKLearn
-3.Perceptron                            
+2.Perceptron                            
 Train accuracies: 87.1069 %       Testing Accuracy: 84.7826 %   
 
-4. Logistic Regression  
+3. Logistic Regression  
 Training Accuracy: 95.5974 %  Testing Accuracy: 97.8260 %
 
-5.Multi Layer Perceptron(MLP)  
+4.Multi Layer Perceptron(MLP)  
 Training Accuracy: 88.3647 %        Testing Accuracy: 82.6086 %
 
 
 # PyTorch
-1.Multi Layer Perceptron(MLP)     
+5.Multi Layer Perceptron(MLP)     
 Training Accuracy= 88.6792 %      Testing Accuracy= 95.6521 % 
 
-2.Logistic Regression    
+6.Logistic Regression    
 Training Accuracy= 88.6792 %      Testing Accuracy= 91.3043 %
