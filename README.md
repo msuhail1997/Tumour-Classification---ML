@@ -12,24 +12,29 @@ Training and Testing were done on Breast Cancer Diagnostic Wisconsin dataset to 
 ROC-AUC score = 0.9136
 
 # SKLearn
-2.Perceptron                            
+2.Perceptron
+                            
 Training Accuracy: 87.1069 %            
 Testing Accuracy: 84.7826 %   
 
-3.Logistic Regression  
+3.Logistic Regression 
+ 
 Training Accuracy: 95.5974 %            
 Testing Accuracy: 97.8260 %
 
 4.Multi Layer Perceptron(MLP)  
+
 Training Accuracy: 88.3647 %            
 Testing Accuracy: 82.6086 %
 
 
 # PyTorch
-5.Multi Layer Perceptron(MLP)     
+5.Multi Layer Perceptron(MLP) 
+    
 Training Accuracy= 88.6792 %           
 Testing Accuracy= 95.6521 % 
 
-6.Logistic Regression    
+6.Logistic Regression
+    
 Training Accuracy= 88.6792 %            
 Testing Accuracy= 91.3043 %
