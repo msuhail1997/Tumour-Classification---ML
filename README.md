@@ -1,5 +1,5 @@
 
-# Classification of Tumours (PySpark, Sklearn)
+# Machine Learning for Tumour Classification (PySpark, Sklearn)
 
 ### Dataset: Breast Cancer Diagnostic Wisconsin
 
