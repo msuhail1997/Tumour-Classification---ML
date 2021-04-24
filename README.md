@@ -1,5 +1,5 @@
 
-# Classification of Tumours (PySpark, Sklearn)
+# Classification of Tumours 
 
 ### Dataset: Breast Cancer Diagnostic Wisconsin
 
