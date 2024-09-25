@@ -10,34 +10,34 @@ Training and testing were done on Wisconsin (Cancer Diagnostic) dataset for clas
 -The following test and train accuracies were obtained.
 
 # PySpark
-Decision Trees               
+- Decision Trees               
 ROC-AUC score = 0.9136
 
 # SKLearn
-Perceptron
+- Perceptron
                             
-Training Accuracy: 87.1069 %            
-Testing Accuracy: 84.7826 %   
+Train Accuracy: 87.1069 %            
+Test Accuracy: 84.7826 %   
 
-Logistic Regression 
+- Logistic Regression 
  
-Training Accuracy: 95.5974 %            
-Testing Accuracy: 97.8260 %
+Train Accuracy: 95.5974 %            
+Test Accuracy: 97.8260 %
 
-Multi Layer Perceptron(MLP)  
+- Multi Layer Perceptron(MLP)  
 
-Training Accuracy: 88.3647 %            
-Testing Accuracy: 82.6086 %
+Train Accuracy: 88.3647 %            
+Test Accuracy: 82.6086 %
 
 
 # PyTorch
 
-Multi Layer Perceptron(MLP) 
+- Multi Layer Perceptron(MLP) 
     
-Training Accuracy= 88.6792 %           
-Testing Accuracy= 95.6521 % 
+Train Accuracy= 88.6792 %           
+Test Accuracy= 95.6521 % 
 
 Logistic Regression
     
-Training Accuracy= 88.6792 %            
-Testing Accuracy= 91.3043 %
+Train Accuracy= 88.6792 %            
+Test Accuracy= 91.3043 %
