@@ -37,7 +37,7 @@ Test Accuracy: 82.6086 %
 Train Accuracy= 88.6792 %           
 Test Accuracy= 95.6521 % 
 
-Logistic Regression
+- Logistic Regression
     
 Train Accuracy= 88.6792 %            
 Test Accuracy= 91.3043 %
